@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ledgersort"
+version = "0.1.0"
+description = "Categorize a freelancer's or small shop's bank statement with Jev, and learn from your corrections."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+keywords = ["jev", "typesafe", "bookkeeping", "bank-statement", "csv", "cli"]
+dependencies = []
+
+[project.scripts]
+ledgersort = "ledgersort.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["ledgersort*"]

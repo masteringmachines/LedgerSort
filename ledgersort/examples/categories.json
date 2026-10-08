@@ -1,0 +1,16 @@
+{
+  "categories": {
+    "income": "Money received from clients or customers",
+    "software": "Software subscriptions, SaaS, hosting, developer tools",
+    "hardware_equipment": "Computers, cameras, tools, and other equipment",
+    "office_supplies": "Paper, ink, small office and shipping supplies",
+    "meals": "Business meals and coffee",
+    "travel": "Flights, hotels, rideshare, transit",
+    "vehicle_fuel": "Fuel and vehicle running costs",
+    "internet_phone": "Internet, phone, and mobile plans",
+    "professional_fees": "Accountant, lawyer, contractors",
+    "bank_fees": "Bank and payment-processor fees",
+    "taxes_licenses": "Business licenses, permits, and tax payments",
+    "owner_transfer": "Moving money between the owner's own accounts"
+  }
+}
