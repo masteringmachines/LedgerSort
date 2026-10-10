@@ -1,4 +1,4 @@
-# ledgersort
+# Ledgersort
 
 Categorize a freelancer's or small shop's **bank statement CSV** with
 Jev, and get faster every month. Zero dependencies, stdlib Python.
